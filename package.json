@@ -26,7 +26,7 @@
   },
   "homepage": "https://github.com/ember-cli/ember-cli-jshint",
   "dependencies": {
-    "broccoli-jshint": "^1.0.0"
+    "broccoli-jshint": "^2.1.0"
   },
   "bundledDependencies": [],
   "devDependencies": {
